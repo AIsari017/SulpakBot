@@ -61,10 +61,3 @@ This bot was engineered, designed, and presented during my internship at Sulpak,
 - Integrate with other e-commerce platforms.
 
 - Enhance NLP capabilities for more complex queries.
-
-
-## Acknowledgements
-
-Sulpak: For providing the platform and resources during my internship.
-
-Telegram API: For enabling seamless communication.
